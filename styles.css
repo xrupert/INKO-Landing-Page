@@ -1,0 +1,129 @@
+/* Global Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(to right, #000000, #002E5D);
+    color: #ffffff;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.cta-button {
+    background-color: #5FA9D6;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.cta-button:hover {
+    background-color: #002E5D;
+}
+
+/* What We Do Section */
+.what-we-do {
+    background-color: #f0f0f0;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.what-we-do h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.services {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.service {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.service h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.service p {
+    font-size: 16px;
+}
+
+/* How It Works Section */
+.how-it-works {
+    padding: 60px 20px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.how-it-works h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.steps {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.step {
+    background-color: #002E5D;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.step h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* CTA Section */
+.cta {
+    background-color: #002E5D;
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.cta h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.cta p {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #000000;
+    color: white;
+}
