@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pdf2image
+pytesseract
+pandas
+python-multipart
+python-dotenv
+openai
+supabase
